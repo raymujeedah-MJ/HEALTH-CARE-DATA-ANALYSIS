@@ -2,7 +2,8 @@
 This project explores a healthcare dataset using Microsoft Excel. The workbook covers data preparation, PivotTable analysis, KPI summaries, and  interactive dashboard
 
 The analysis uses 150 patient records and focuses on patient demographics, medical conditions, admission types, medications, insurance providers, billing amounts, and test results.
-Dashboard Preview
+## Dashboard Preview
+![Healthcare Data Analysis](Dashboard/Healthcare_Data_Analysis.jpg)
 
 ## Tools Used
 
